@@ -5,11 +5,11 @@
 Things we need to do.
 
 ### Adam
-[x] item 1 
-[ ] item 2 
-[ ] item 3
+- [x] item 1 
+- [ ] item 2 
+- [ ] item 3
 
 ### Shun
-[ ] item 1 
-[ ] item 2 
-[ ] item 3
+- [ ] item 1 
+- [ ] item 2 
+- [ ] item 3
