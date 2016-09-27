@@ -5,7 +5,7 @@
 Things we need to do.
 
 ### Adam
-- [] Put up a landing page.
+- [ ] Put up a landing page.
 
 ### Shun
 - [ ] Import all of your diary notes into repo.
