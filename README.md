@@ -5,11 +5,8 @@
 Things we need to do.
 
 ### Adam
-- [x] item 1 
-- [ ] item 2 
-- [ ] item 3
+- [] Put up a landing page.
 
 ### Shun
-- [ ] item 1 
-- [ ] item 2 
-- [ ] item 3
+- [ ] Import all of your diary notes into repo.
+- [ ] Create 500 hundred words about the project.
