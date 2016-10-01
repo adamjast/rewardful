@@ -3,10 +3,10 @@
 
 ## How It Works
 
-## For Merchant
+### For Merchant
 ...
 
-## For Reviewers
+### For Reviewers
 ...
 
 
