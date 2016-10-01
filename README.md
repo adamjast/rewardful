@@ -6,6 +6,10 @@ A online reviews and rewards platform designed to enhance the post-transactional
 - Reviews directly to the local business.
  - A software platform that allows local business reviews to reach the owner first.
 
+## Initial Problems
+Problems that this product is trying to solve
+- Submitting a negative review to the public before a owner can resolve it.
+
 ## Why
 [fill after one line definition is established...]
 ### Current
