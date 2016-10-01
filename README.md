@@ -37,8 +37,10 @@ Things we need to do.
 - [ ] PRIORITY
  1. [ ] Complete Merchant lead list table.
   [Lead List](biz/sales/our-first-merchants/lead-list.md)
- 1. [ ] Complete Reviewers lead list table.
+ 2. [ ] Complete Reviewers lead list table.
   [Lead List](biz/sales/our-first-reviewers/lead-list.md)
+ 3. [ ] Add 10 products to Market Landscape.
+ [Market Landscape](biz/market-landscape/general.md)
 - [ ] OTHER
  - [ ] Import all of your diary notes into repo.
  - [ ] Create 500 hundred words about the project.
