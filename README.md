@@ -1,5 +1,9 @@
 # Rewardful
-*Rewardful* is an online reviews and rewards platform designed to enhance the post-transactional relationship between businesses and their customers.
+## Simple One Line Definition
+### Current
+A online reviews and rewards platform designed to enhance the post-transactional relationship between businesses and their customers.
+### Proposed
+- Reviews directly to the local business.
 
 ## How It Works
 
