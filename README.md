@@ -8,6 +8,11 @@ A online reviews and rewards platform designed to enhance the post-transactional
 
 ## Why
 [fill after one line definition is established...]
+### Current
+[select]
+### Proposals
+- ONE LINE: A software platform that allows local business reviews to reach the owner first.
+ - WHY: If the owner gets the ability to see the review before it is posted to the public there might be a window of resolution or clarity between the owner and reviewer.  
 
 ## Todo
 Things we need to do.
