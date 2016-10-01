@@ -26,5 +26,5 @@ Things we need to do.
  - [ ] Import all of your diary notes into repo.
  - [ ] Create 500 hundred words about the project.
  
-## Extended Sections
+## More Sections
 [User Flow](user-flow.md)
