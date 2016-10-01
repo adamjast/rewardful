@@ -5,7 +5,10 @@ A online reviews and rewards platform designed to enhance the post-transactional
 ### Proposed
 - Reviews directly to the local business.
 
-## How It Works
+## Why
+[fill after one line definition is established...]
+
+## User Flow
 
 ### For Merchant
 ...
