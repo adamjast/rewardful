@@ -8,9 +8,6 @@ A online reviews and rewards platform designed to enhance the post-transactional
 ## Why
 [fill after one line definition is established...]
 
-## User Flow
-Checkout [User Flow](user-flow.md)
-
 ## Todo
 Things we need to do.
 
@@ -28,3 +25,6 @@ Things we need to do.
 - [ ] OTHER
  - [ ] Import all of your diary notes into repo.
  - [ ] Create 500 hundred words about the project.
+ 
+## Section Index
+[User Flow](user-flow.md)
