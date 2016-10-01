@@ -3,4 +3,4 @@ All sales things go here.
 Create a sales campaign directory first.  Example: Our first Merchants.
 
 ## Lead List
-A list of all potential customers we are going after.
+A list of all potential customers we are going after.  These are people that have not been touched at all yet.
