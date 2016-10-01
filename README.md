@@ -1,6 +1,16 @@
 # Rewardful
 [need to explain what it does in a simple sentence.  Then followed by a paragraph more details if wanted.]
 
+## How It Works
+
+## For Merchant
+...
+
+## For Reviewers
+...
+
+
+
 ## Todo
 Things we need to do.
 
