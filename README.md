@@ -4,6 +4,7 @@
 A online reviews and rewards platform designed to enhance the post-transactional relationship between businesses and their customers.
 ### Proposed
 - Reviews directly to the local business.
+ - A software platform that allows local business reviews to reach the owner first.
 
 ## Why
 [fill after one line definition is established...]
