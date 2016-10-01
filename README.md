@@ -18,6 +18,11 @@ Problems that this product is trying to solve
 - ONE LINE: A software platform that allows local business reviews to reach the owner first.
  - WHY: If the owner gets the ability to see the review before it is posted to the public there might be a window of resolution or clarity between the owner and reviewer.  
 
+## Features
+- Reviews post to users platform of choice.
+- Pending period between review submission and review post.
+- Resolution option for merchants on pending reviews.
+
 ## Todo
 Things we need to do.
 
