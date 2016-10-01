@@ -31,8 +31,14 @@
 Things we need to do.
 
 ### Adam
-- [ ] Put up a landing page.
+- [x] Put up a landing page.
 
 ### Shun
-- [ ] Import all of your diary notes into repo.
-- [ ] Create 500 hundred words about the project.
+- [ ] PRIORITY
+ 1. [ ] Complete Merchant lead list table.
+  [Lead List](biz/sales/our-first-merchants/lead-list.md)
+ 1. [ ] Complete Reviewers lead list table.
+  [Lead List](biz/sales/our-first-reviewers/lead-list.md)
+- [ ] OTHER
+ - [ ] Import all of your diary notes into repo.
+ - [ ] Create 500 hundred words about the project.
