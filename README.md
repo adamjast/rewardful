@@ -11,7 +11,7 @@ Problems that this product is trying to solve
 - Submitting a negative review to the public before a owner can resolve it.
 
 ## Live
-You can find the app for [merchants here](http://biz.rewardful.jastcode.com) and [reviewers here](http://biz.rewardful.jastcode.com)
+You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and [reviewers here](http://rewardful.jastcode.com)
 
 ## Why
 [fill after one line definition is established...]
