@@ -19,8 +19,8 @@ You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and
 ## Why
 [fill after one line definition is established...]
 - Continue the B2C relationship after the transaction
-- #Merchants want feedback, endorsements, and the ability to provide post-transaction customer service
-- #Reviewers like coupons, direct conversation, rewards/recognition, notifications.
+- 'Merchants' want feedback, endorsements, and the ability to provide post-transaction customer service
+- 'Reviewers' like coupons, direct conversation, rewards/recognition, notifications.
 - A software platform that allows local business to recognize, reward, and/or rectify a customer review
 
 
@@ -31,9 +31,21 @@ You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and
  - WHY: If the owner gets the ability to see the review before it is posted to the public there might be a window of resolution or clarity between the owner and reviewer.  
 
 ## Features
+
+### Current
 - Reviews post to users platform of choice.
 - Pending period between review submission and review post.
 - Resolution option for merchants on pending reviews.
+
+### Proposals
+
+
+## Customer service issues
+
+### Current
+
+### Proposals
+- 'Merchant' wants to know if reviews are legitimate
 
 ## Todo
 Things we need to do.
