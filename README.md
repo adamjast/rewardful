@@ -58,7 +58,7 @@ Things we need to do.
 ### Shun
 - [ ] PRIORITY
  1. [ ] Complete Merchant lead list table.
-  [Lead List](biz/sales/our-first-merchants/lead-list.md)
+  [Lead List](biz/sales/our-first-merchants/merchant-list.md)
  2. [ ] Complete Reviewers lead list table.
   [Lead List](biz/sales/our-first-reviewers/lead-list.md)
  3. [ ] Add 10 products to Market Landscape.
