@@ -2,10 +2,12 @@
 ## Simple One Line Definition
 ### Current
 A online reviews and rewards platform designed to enhance the post-transactional relationship between businesses and their customers.
+
 ### Proposed
 - Reviews directly to the local business.
 - A software platform that allows local business reviews to reach the owner first
  * Shun: this is more of a feature, not global definition
+- An online platform designed to enhance the relationship between businesses and their customers after the transaction. 
 
 ## Initial Problems
 Problems that this product is trying to solve
