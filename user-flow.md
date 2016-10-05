@@ -20,9 +20,9 @@
  3. [Login into your account](http://biz-rewardful.jastcode.com/login).
  4. Option 1: Create a location
   a. Add your location
-    1. Enter location name
-    2. Enter location address
-    3. Enter location phone number
+   1. Enter location name
+   2. Enter location address
+   3. Enter location phone number
  5. Option 2: Browse pending reviews (pending and expired ones)
    a. Select a review in detail
      1. Make a resolution action (read, respond)
