@@ -1,14 +1,17 @@
 # Rewardful
 ## Simple One Line Definition
 ### Current
-A online reviews and rewards platform designed to enhance the post-transactional relationship between businesses and their customers.
+An online platform to enhance the relationship between businesses and their customers after a visit using reviews.
 
 ### Proposed
 - Reviews directly to the local business.
 - A software platform that allows local business reviews to reach the owner first
  * Shun: this is more of a feature, not global definition
 - An online platform designed to enhance the relationship between businesses and their customers after the transaction.
- * An online platform designed to enhance the relationship between businesses and their customers after a visit using reviews.
+ * An online platform to enhance the relationship between businesses and their customers after a visit using reviews.
+ 
+### Previous
+A online reviews and rewards platform designed to enhance the post-transactional relationship between businesses and their customers.
 
 ## Initial Problems
 Problems that this product is trying to solve
