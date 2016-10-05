@@ -1,5 +1,6 @@
 # User Flow
 ## For Merchant
+### Current
 1. **Download the app**
 2. **Sign up for a Rewardful account** as a #Merchant
 3. **Receive XXX points** for signing up (enough to create your first coupon)
@@ -12,6 +13,16 @@
  * Approve/engage reviews (how do popular YouTubers manage so many comments?)
  * Award points to high-quality reviews (optional)
 
+### Proposed
+- 1.
+ 1. Visit [Rewardful for Business Website](http://biz-rewardful.jastcode.com)
+ 2. Signup for an account.
+ 2. Login into your account.
+ 3. Option 1: Browse pending reviews (pending and expired ones)
+   a. Select a review in detail
+     1. Make a resolution action (read, respond)
+     2. Send gift to reviewer
+ 
 ## For Reviewers
 ### Current
 1. **Download the app**
