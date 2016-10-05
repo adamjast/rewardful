@@ -1,5 +1,5 @@
-
-### For Merchant
+# User Flow
+## For Merchant
 1. **Download the app**
 2. **Sign up for a Rewardful account** as a #Merchant
 3. **Receive XXX points** for signing up (enough to create your first coupon)
@@ -12,7 +12,8 @@
  * Approve/engage reviews (how do popular YouTubers manage so many comments?)
  * Award points to high-quality reviews (optional)
 
-### For Reviewers
+## For Reviewers
+### Current
 1. **Download the app**
 2. **Sign up for a Rewardful account** as a #Reviewer
   * Sign in with Yelp
@@ -35,3 +36,18 @@
  * "#Merchant has rewarded you XX points for your review!"
  * "#Merchant has offered you a coupon"
  * "#Merchant has sent you a message"
+
+### Proposed
+- 1.
+ 1. Visit [Rewardful Website](http://rewardful.jastcode.com)
+ 2. Login using your Yelp account. (if you don't have one yet get a [Yelp account here](https://www.yelp.com/signup).)
+ 3. Option 1: Create a review for a local business.
+    1. Enter the location of the business you wish to review
+    2. Enter your experience at the establishment.
+    3. Experience is sent to Mercahant to view.
+    4. Updates on the status of the review will be sent to your "REVIEWED" feed. (pending, resolved)
+ 4. Option 2: View your submitted posts aka "REVIEWED" (pending and completed)
+    1. Posts periodically updates the status of your reviews from pending to complete.
+    2. When posts become completed they are released on your yelp account.
+    3. Click on a specific review for indepth details on the post. (link to where to find it, etc)
+ 5. Option 3: View previously submitted posts by other users.
