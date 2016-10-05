@@ -16,9 +16,14 @@
 ### Proposed
 - 1.
  1. Visit [Rewardful for Business Website](http://biz-rewardful.jastcode.com)
- 2. Signup for an account.
- 2. Login into your account.
- 3. Option 1: Browse pending reviews (pending and expired ones)
+ 2. [Signup for an account](http://biz-rewardful.jastcode.com/signup).
+ 3. [Login into your account](http://biz-rewardful.jastcode.com/login).
+ 4. Option 1: Create a location
+  a. Add your location
+    1. Enter location name
+    2. Enter location address
+    3. Enter location phone number
+ 5. Option 2: Browse pending reviews (pending and expired ones)
    a. Select a review in detail
      1. Make a resolution action (read, respond)
      2. Send gift to reviewer
