@@ -13,5 +13,15 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	return View::make('showcase.index');
+});
+
+Route::get('signup', function ()
+{
+	return View::make('signup.index');
+});
+
+Route::get('login', function ()
+{
+	return View::make('login.index');
 });
