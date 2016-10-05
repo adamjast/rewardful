@@ -55,6 +55,8 @@ Things we need to do.
 
 ### Adam
 - [x] Put up a landing page.
+- [ ] Create Authentication System for Merchant.
+- [ ] Create Authentication System for Reviewer.
 
 ### Shun
 - [ ] PRIORITY
