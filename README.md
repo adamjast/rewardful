@@ -9,6 +9,7 @@ An online platform to enhance the relationship between businesses and their cust
  * Shun: this is more of a feature, not global definition
 - An online platform designed to enhance the relationship between businesses and their customers after the transaction.
  * An online platform to enhance the relationship between businesses and their customers after a visit using reviews.
+
  
 ### Previous
 A online reviews and rewards platform designed to enhance the post-transactional relationship between businesses and their customers.
@@ -34,24 +35,35 @@ You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and
 [select]
 ### Proposals
 - ONE LINE: A software platform that allows local business reviews to reach the owner first.
- - WHY: If the owner gets the ability to see the review before it is posted to the public there might be a window of resolution or clarity between the owner and reviewer.  
+ - WHY: If the owner gets the ability to see the review before it is posted to the public there might be a window of resolution or clarity between the owner and reviewer.
 
 ## Features
 
 ### Current
-- Reviews post to users platform of choice.
+- Reviews post to the user's platform of choice.
 - Pending period between review submission and review post.
-- Resolution option for merchants on pending reviews.
+- Resolution opportunity for merchants on pending reviews.
 
 ### Proposals
+- Reviewers can receive rewards (or a resolution) for their business review.
 
 
-## Customer service issues
+## Potential problems
 
 ### Current
+For Merchants
+- Spammy reviews
+ - How to decipher fake vs authentic customer reviews
+ - 'Merchant' wants to know if reviews are legitimate
+ - How do businesses keep up with a surge of review submissions?
+
+For Reviewers
+ - How to keep users engaged using Rewardful?
+ - What happens if a business is not listed on Rewardful?
 
 ### Proposals
-- 'Merchant' wants to know if reviews are legitimate
+
+
 
 ## Todo
 Things we need to do.
