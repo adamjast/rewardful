@@ -27,10 +27,9 @@ You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and
 ## Why
 [fill after one line definition is established...]
 - Continue the B2C relationship after the transaction
-- 'Merchants' want feedback, endorsements, and the ability to provide post-transaction customer service
+- 'Merchants' want feedback, endorsements, and the ability to provide engaging customer service after the visit or transaction.
 - 'Reviewers' like coupons, direct conversation, rewards/recognition, notifications.
 - A software platform that allows local business to recognize, reward, and/or rectify a customer review
-
 
 ### Current
 [select]
