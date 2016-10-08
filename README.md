@@ -9,6 +9,7 @@ An online platform to enhance the relationship between businesses and their cust
  * Shun: this is more of a feature, not global definition
 - An online platform designed to enhance the relationship between businesses and their customers after the transaction.
  * An online platform to enhance the relationship between businesses and their customers after a visit using reviews.
+- An online review platform that allows businesses to reward or resolve customer reviews before they're posted live.
 
  
 ### Previous
@@ -46,7 +47,12 @@ You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and
 
 ### Proposals
 - Reviewers can receive rewards (or a resolution) for their business review.
-
+- Engagement Score
+ - Stand out from the rest of the 4.5 star reviews with a Customer Enagagement Score
+ - Engage positive reviews by thanking or rewarding them
+ - Engage negative reviews by providing a fix, resolution, or apology
+ - The more reviews a business engages with, the higher the business's Engagement score
+ - For example: Receive 20 reviews. Thanking, rewarding or resolving 19 of them will give the business an engagement score of 95%.
 
 ## Potential problems
 
@@ -54,11 +60,15 @@ You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and
 For Merchants
 - Spammy reviews
  - How to decipher fake vs authentic customer reviews
+  - **"Check in"** to the restaurant (Problem: extra step for Reviewer)
+  - **Take a picture** of your visit (Problem: extra step for Reviewer; fake pictures)
+  - **Receipt code** (Problem: extra step for Reviewer; majority of customers throw away receipts)
  - 'Merchant' wants to know if reviews are legitimate
- - How do businesses keep up with a surge of review submissions?
+- How do businesses keep up with a surge of review submissions?
 
 For Reviewers
  - How to keep users engaged using Rewardful?
+  - Receive a notification when a business engages or rewards you for your review
  - What happens if a business is not listed on Rewardful?
 
 ### Proposals
