@@ -50,6 +50,8 @@ Default thank you with custom option.
 Open a conversation about reward.
 #### Reward
 Attach a coupon or comp.
+#### Challenge
+Flag a review for spam or as inappropriate
 
 ## Features
 
