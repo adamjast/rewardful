@@ -37,6 +37,20 @@ You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and
 - ONE LINE: A software platform that allows local business reviews to reach the owner first.
  - WHY: If the owner gets the ability to see the review before it is posted to the public there might be a window of resolution or clarity between the owner and reviewer.
 
+## Concepts
+### Review Actions
+These are actions a Merchant can take upon a pending review.
+#### Ignore/Expired
+Skipped or not read.
+#### Read
+Only read.
+#### Thank You
+Default thank you with custom option.
+#### Reply
+Open a conversation about reward.
+#### Reward
+Attach a coupon or comp.
+
 ## Features
 
 ### Current
