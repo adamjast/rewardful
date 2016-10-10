@@ -43,15 +43,14 @@ These are actions a Merchant can take upon a pending review.
 #### Ignore/Expired
 Skipped or not read.
 #### Read
-Only read.
+Only read and option of Reward.
 #### Thank You
-Default thank you with custom option.
+Default thank you with custom option and option of Reward.
 #### Reply
-Open a conversation about reward.
-#### Reward
-Attach a coupon or comp.
-#### Challenge
-Flag a review for spam or as inappropriate
+Open a conversation about review and option of Reward.
+
+### Reward
+A coupon or a comp that a merchant can send to a reviewer.
 
 ## Features
 
