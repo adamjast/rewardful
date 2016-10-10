@@ -38,19 +38,27 @@ You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and
  - WHY: If the owner gets the ability to see the review before it is posted to the public there might be a window of resolution or clarity between the owner and reviewer.
 
 ## Concepts
-### Review Actions
+### Review Actions for Merchant
 These are actions a Merchant can take upon a pending review.
 #### Ignore/Expired
 Skipped or not read.
 #### Read
-Only read and option of Reward.
+Only read.
 #### Thank You
-Default thank you with custom option and option of Reward.
+Default thank you with custom option.
 #### Reply
-Open a conversation about review and option of Reward.
+Open a conversation about reward.
+#### Reward
+Attach a coupon or comp.
+#### Challenge
+Flag a review for spam or as inappropriate
 
-### Reward
-A coupon or a comp that a merchant can send to a reviewer.
+### Review Actions for Reviewer
+These are actions that a Reviewer can do when writing a review
+#### Rate 1-5 Stars
+Choose a rating based on your overall experience with the business
+#### Comment
+Write about your experience
 
 ## Features
 
