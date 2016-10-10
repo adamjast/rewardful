@@ -92,6 +92,16 @@ For Reviewers
  - How to keep users engaged using Rewardful?
   - Receive a notification when a business engages or rewards you for your review
  - What happens if a business is not listed on Rewardful?
+ 
+For Development
+- How to deliver a reward
+ - Systematically (i.e. using Yelp platform)
+  - + Piggyback off of Yelp
+  - - Difficult to set up rules
+ - Attach a file (i.e. PDF)
+  - + Easy to program
+  - - Not universal
+  - - No quality control 
 
 ### Proposals
 
