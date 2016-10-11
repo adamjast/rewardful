@@ -2,7 +2,9 @@
 aka *Reviewflow*
 ## Simple One Line Definition
 ### Current
-An online platform to enhance the relationship between businesses and their customers after a visit using reviews.
+
+An online review platform that allows businesses to reward or resolve customer reviews before they're posted live.
+
 
 ### Proposed
 - Reviews directly to the local business.
@@ -11,10 +13,10 @@ An online platform to enhance the relationship between businesses and their cust
 - An online platform designed to enhance the relationship between businesses and their customers after the transaction.
  * An online platform to enhance the relationship between businesses and their customers after a visit using reviews.
 - An online review platform that allows businesses to reward or resolve customer reviews before they're posted live.
-
  
 ### Previous
-A online reviews and rewards platform designed to enhance the post-transactional relationship between businesses and their customers.
+- A online reviews and rewards platform designed to enhance the post-transactional relationship between businesses and their customers.
+- An online platform to enhance the relationship between businesses and their customers after a visit using reviews.
 
 ## Initial Problems
 Problems that this product is trying to solve
