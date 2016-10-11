@@ -69,6 +69,7 @@ Write about your experience
 - User (writing reviews on product)
  - User: Regular
  - User: Power/Elite (XX reviews a YY) 
+
 ### Merchants
 - Lead
 - Alpha (feedback on concepts)
