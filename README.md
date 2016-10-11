@@ -1,4 +1,5 @@
 # Rewardful
+aka *Reviewflow*
 ## Simple One Line Definition
 ### Current
 An online platform to enhance the relationship between businesses and their customers after a visit using reviews.
@@ -59,6 +60,22 @@ These are actions that a Reviewer can do when writing a review
 Choose a rating based on your overall experience with the business
 #### Comment
 Write about your experience
+
+## User types
+### Reviewers
+- Lead
+- Alpha (feedback on concepts)
+- Beta (feedback on product itself)
+- User (writing reviews on product)
+ - User: Regular
+ - User: Power/Elite (XX reviews a YY) 
+### Merchants
+- Lead
+- Alpha (feedback on concepts)
+- Beta (feedback on product itself)
+- Merchant (rece reviews on product)
+ - Merchant: Regular
+ - Merchant: Power/Elite (High engagement rate) 
 
 ## Features
 
@@ -126,6 +143,17 @@ Things we need to do.
 - [ ] OTHER
  - [ ] Import all of your diary notes into repo.
  - [ ] Create 500 hundred words about the project.
+ - [ ] Create Script: Lead Reviewers
+ - [ ] Create Script: Lead Merchants
+ - [ ] Create Script: Alpha Reviewers
+ - [ ] Create Script: Alpha Merchants
+ 
+## Milestones
+- Reach out to 5 local Yelp users
+- Reach out to 5 local businesses
+- Meetup with 5 Lead Reviewers
+- Meetup with 5 Lead Merchants
+- Front-end landing page for Reviewflow signups
  
 ## More Sections
 [User Flow](user-flow.md)
