@@ -19,6 +19,7 @@ An online review platform that allows businesses to reward or resolve customer r
 
 ## Initial Problems
 Problems that this product is trying to solve
+
 1. Submitting a negative review to the public before a owner can resolve it.
 2. Increase the number of positive customers reviews 
  - Users currently are more engaged to write a review for a negative experience than a positive
