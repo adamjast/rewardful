@@ -12,17 +12,22 @@ An online review platform that allows businesses to reward or resolve customer r
  * Shun: this is more of a feature, not global definition
 - An online platform designed to enhance the relationship between businesses and their customers after the transaction.
  * An online platform to enhance the relationship between businesses and their customers after a visit using reviews.
-- An online review platform that allows businesses to reward or resolve customer reviews before they're posted live.
- 
+
 ### Previous
 - A online reviews and rewards platform designed to enhance the post-transactional relationship between businesses and their customers.
 - An online platform to enhance the relationship between businesses and their customers after a visit using reviews.
 
 ## Initial Problems
 Problems that this product is trying to solve
-- Submitting a negative review to the public before a owner can resolve it.
-- Increase the number of positive customers reviews (more likely to write a review for a negative experience, but rarely for positive)
-- Increase the quality of customer reviews (*"Tried the Avocado Bacon Beast Burger. My favorite!"* vs *"great food great service"*)
+1. Submitting a negative review to the public before a owner can resolve it.
+2. Increase the number of positive customers reviews 
+ - Users currently are more engaged to write a review for a negative experience than a positive
+3. Increase the quality of customer reviews 
+ - *"Tried the Avocado Bacon Beast Burger. My favorite!"* vs *"great food great service"*
+4. Give businesses a platform to continue engaging with the customer after the transaction
+ - Before: Advertise and promote
+ - During: Transaction
+ - After: Thanking, rewarding, resolving
 
 ## Live
 You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and [reviewers here](http://rewardful.jastcode.com)
