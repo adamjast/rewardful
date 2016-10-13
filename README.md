@@ -33,12 +33,10 @@ Situations that can create friction or decrease the user experience.
 ### Current
 #### For Merchants
 
-1. Spammy reviews
- - How to decipher fake vs authentic customer reviews
-  - **"Check in"** to the restaurant (Problem: extra step for Reviewer)
-  - **Take a picture** of your visit (Problem: extra step for Reviewer; fake pictures)
-  - **Receipt code** (Problem: extra step for Reviewer; majority of customers throw away receipts)
- - 'Merchant' wants to know if reviews are legitimate
+1. How to remove negative reviews on Yelp
+ - Owner must be aware of the negative review(s)
+ - Owner must directly contact the Yelper and ask them to change their rating
+ - Even if owner receives more recent positive reviews, Yelp will *still* show older negative reviews
 
 #### For Reviewers
 
@@ -50,7 +48,13 @@ Situations that can create friction or decrease the user experience.
 ### For Development
 #### For Merchants
 
-1. How to deliver a reward
+1. Spammy reviews
+ - How to decipher fake vs authentic customer reviews
+  - **"Check in"** to the restaurant (Problem: extra step for Reviewer)
+  - **Take a picture** of your visit (Problem: extra step for Reviewer; fake pictures)
+  - **Receipt code** (Problem: extra step for Reviewer; majority of customers throw away receipts)
+ - 'Merchant' wants to know if reviews are legitimate
+2. How to deliver a reward
  - App sends a notification with a link to the merchant's reward/offer
  - Systematically (i.e. using Yelp platform)
   - + Piggyback off of Yelp
@@ -59,7 +63,7 @@ Situations that can create friction or decrease the user experience.
   - + Easy to program
   - - Not universal
   - - No quality control 
-2. How do businesses keep up with a surge of review submissions?
+3. How do businesses keep up with a surge of review submissions?
  - Set pending period
  - Extra benefit: Allows business to send a notification to the customer on a new day
 
@@ -68,7 +72,10 @@ Situations that can create friction or decrease the user experience.
 1. How to keep users engaged using Rewardful?
  - Receive a notification when a business engages or rewards you for your review
 2. What happens if a business is not listed on Rewardful?
-3. Signing up for *another* account
+3. How to handle repeat visits
+ - + "Check in" to your original review of the business (?)
+ - - How to prevent users from spamming "Check ins"
+4. Signing up for *another* account
  - Sign in with your Yelp account
 
 ### Proposals
