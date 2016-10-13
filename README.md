@@ -1,10 +1,8 @@
 # Rewardful
 aka *Reviewflow*
-## Simple One Line Definition
+## 1. Simple One Line Definition
 ### Current
-
 An online review platform that allows businesses to reward or resolve customer reviews before they're posted live.
-
 
 ### Proposed
 - Reviews directly to the local business.
@@ -17,7 +15,7 @@ An online review platform that allows businesses to reward or resolve customer r
 - A online reviews and rewards platform designed to enhance the post-transactional relationship between businesses and their customers.
 - An online platform to enhance the relationship between businesses and their customers after a visit using reviews.
 
-## Initial Problems
+## 2. Initial Problems
 Problems that this product is trying to solve
 
 1. Submitting a negative review to the public before a owner can resolve it.
@@ -25,15 +23,77 @@ Problems that this product is trying to solve
  - Users currently are more engaged to write a review for a negative experience than a positive
 3. Increase the quality of customer reviews 
  - *"Tried the Avocado Bacon Beast Burger. My favorite!"* vs *"great food great service"*
-4. Give businesses a platform to continue engaging with the customer after the transaction
- - Before: Advertise and promote
+4. Allows businesses to engage with customers after the transaction
+ - Before: Advertisements and promotions
  - During: Transaction
- - After: Thanking, rewarding, resolving
+ - **After: Thanking, rewarding, resolving**
+ 
+## 3. Pain points
+Situations that can create friction or decrease the user experience.
+### Current
+#### For Merchants
 
-## Live
+1. Spammy reviews
+ - How to decipher fake vs authentic customer reviews
+  - **"Check in"** to the restaurant (Problem: extra step for Reviewer)
+  - **Take a picture** of your visit (Problem: extra step for Reviewer; fake pictures)
+  - **Receipt code** (Problem: extra step for Reviewer; majority of customers throw away receipts)
+ - 'Merchant' wants to know if reviews are legitimate
+
+#### For Reviewers
+
+1. Why should I bother writing a review?
+ - Takes too much time
+ - "I'm not a good writer"
+ - Forgot
+ 
+### For Development
+#### For Merchants
+
+1. How to deliver a reward
+ - App sends a notification with a link to the merchant's reward/offer
+ - Systematically (i.e. using Yelp platform)
+  - + Piggyback off of Yelp
+  - - Difficult to set up rules
+ - Attach a file (i.e. PDF)
+  - + Easy to program
+  - - Not universal
+  - - No quality control 
+2. How do businesses keep up with a surge of review submissions?
+ - Set pending period
+ - Extra benefit: Allows business to send a notification to the customer on a new day
+
+#### For Reviewers
+
+1. How to keep users engaged using Rewardful?
+ - Receive a notification when a business engages or rewards you for your review
+2. What happens if a business is not listed on Rewardful?
+3. Signing up for *another* account
+ - Sign in with your Yelp account
+
+### Proposals
+
+## 4. Features
+
+### Current
+1. Reviews post to the user's platform of choice.
+2. Pending period between review submission and review post.
+3. Resolution opportunity for merchants on pending reviews.
+
+### Proposals
+1. Reviewers can receive rewards (or a resolution) for their business review.
+2. Engagement Score
+ - Stand out from the rest of the 4.5 star reviews with a Customer Enagagement Score
+ - Engage positive reviews by thanking or rewarding them
+ - Engage negative reviews by providing a fix, resolution, or apology
+ - The more reviews a business engages with, the higher the business's Engagement score
+ - For example: Receive 20 reviews. Thanking, rewarding or resolving 19 of them will give the business an engagement score of 95%.
+
+
+## 5. Live
 You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and [reviewers here](http://rewardful.jastcode.com)
 
-## Why
+## 6. Why
 [fill after one line definition is established...]
 - Continue the B2C relationship after the transaction
 - 'Merchants' want feedback, endorsements, and the ability to provide engaging customer service after the visit or transaction.
@@ -46,7 +106,7 @@ You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and
 - ONE LINE: A software platform that allows local business reviews to reach the owner first.
  - WHY: If the owner gets the ability to see the review before it is posted to the public there might be a window of resolution or clarity between the owner and reviewer.
 
-## Concepts
+## 7. Concepts
 ### Review Actions for Merchant
 These are actions a Merchant can take upon a pending review.
 #### Ignore/Expired
@@ -69,7 +129,7 @@ Choose a rating based on your overall experience with the business
 #### Comment
 Write about your experience
 
-## User types
+## 8. User types
 ### Reviewers
 - Lead
 - Alpha (feedback on concepts)
@@ -86,54 +146,7 @@ Write about your experience
  - Merchant: Regular
  - Merchant: Power/Elite (High engagement rate) 
 
-## Features
-
-### Current
-- Reviews post to the user's platform of choice.
-- Pending period between review submission and review post.
-- Resolution opportunity for merchants on pending reviews.
-
-### Proposals
-- Reviewers can receive rewards (or a resolution) for their business review.
-- Engagement Score
- - Stand out from the rest of the 4.5 star reviews with a Customer Enagagement Score
- - Engage positive reviews by thanking or rewarding them
- - Engage negative reviews by providing a fix, resolution, or apology
- - The more reviews a business engages with, the higher the business's Engagement score
- - For example: Receive 20 reviews. Thanking, rewarding or resolving 19 of them will give the business an engagement score of 95%.
-
-## Potential problems
-
-### Current
-For Merchants
-- Spammy reviews
- - How to decipher fake vs authentic customer reviews
-  - **"Check in"** to the restaurant (Problem: extra step for Reviewer)
-  - **Take a picture** of your visit (Problem: extra step for Reviewer; fake pictures)
-  - **Receipt code** (Problem: extra step for Reviewer; majority of customers throw away receipts)
- - 'Merchant' wants to know if reviews are legitimate
-- How do businesses keep up with a surge of review submissions?
-
-For Reviewers
- - How to keep users engaged using Rewardful?
-  - Receive a notification when a business engages or rewards you for your review
- - What happens if a business is not listed on Rewardful?
- 
-For Development
-- How to deliver a reward
- - Systematically (i.e. using Yelp platform)
-  - + Piggyback off of Yelp
-  - - Difficult to set up rules
- - Attach a file (i.e. PDF)
-  - + Easy to program
-  - - Not universal
-  - - No quality control 
-
-### Proposals
-
-
-
-## Todo
+## 9. Todo
 Things we need to do.
 
 ### Adam
@@ -157,7 +170,7 @@ Things we need to do.
  - [ ] Create Script: Alpha Reviewers
  - [ ] Create Script: Alpha Merchants
  
-## Milestones
+## 10. Milestones
 - Reach out to 5 local Yelp users
 - Reach out to 5 local businesses
 - Meetup with 5 Lead Reviewers
