@@ -63,9 +63,10 @@ Situations that can create friction or decrease the user experience.
   - + Easy to program
   - - Not universal
   - - No quality control 
-3. How do businesses keep up with a surge of review submissions?
+3. Crowd control: How do businesses keep up with a surge of review submissions?
  - Set pending period
  - Extra benefit: Allows business to send a notification to the customer on a new day
+4. Crowd control: How to prevent reviewers from setting expectations that every business will reward you for a review 
 
 #### For Reviewers
 
