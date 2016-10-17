@@ -21,6 +21,7 @@ Local business customers that have created a review on a review site.
 
 #### Sales Funnel
 1. Lead
-2. Talked about the overall mission
-3. Sent to Signup page
-4. Lead signed up
+2. Make a comment about a review they made
+3. Talked about the overall mission
+4. Sent to Signup page
+5. Lead signed up
