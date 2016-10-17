@@ -19,3 +19,7 @@ Local business customers that have created a review on a review site.
 #### Where To Find
 - Owner of review post on review sites.
 
+#### Sales Funnel
+1. Lead
+2. Talked about the overall mission
+3. Send to Signup page
