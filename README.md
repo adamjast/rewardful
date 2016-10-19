@@ -5,6 +5,7 @@ aka *Reviewflow*
 An online review platform that allows businesses to reward or resolve customer reviews before they're posted live.
 
 ### Proposed
+- **NEW: An online review platform that allows businesses to engage with customer reviews before they're posted live.**
 - Reviews directly to the local business.
 - A software platform that allows local business reviews to reach the owner first
  * Shun: this is more of a feature, not global definition
