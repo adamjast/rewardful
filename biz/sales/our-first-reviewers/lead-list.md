@@ -9,6 +9,8 @@ Y | Ben | Marconi | bmarconi1992@gmail.com | Shun
   | [Melody V](https://www.yelp.com/user_details?userid=R_lqHR4noQoZ-ZqpRiCm4g) | | Unknown | [Guru Restaurant (Position 1 Yelp review for "Clermont FL")](https://www.yelp.com/biz/guru-restaurant-clermont)
   | [Michael P](https://www.yelp.com/user_details?userid=H5_DlsCY-i05DhSjNh4PNA) | | Unknown | [Guru Restaurant (Position 1 Yelp review for "Clermont FL")](https://www.yelp.com/biz/guru-restaurant-clermont)
     | [John J](https://www.yelp.com/user_details?userid=oBWVkYKVhSqGTCXamJ5G7g) | | Unknown | [Over the Top Pita (Best of Yelp: Clermont)](https://www.yelp.com/biz/over-the-top-pita-clermont)
+"Useful" 10/21/16 | [Tina F](https://www.yelp.com/user_details?userid=Frtn08SfZZ5UmnDbXteW6A) | | Unknown | [Over the Top Pita (Best of Yelp: Clermont)](https://www.yelp.com/biz/over-the-top-pita-clermont)
+    
 
 
 ## Yelp messaging script
