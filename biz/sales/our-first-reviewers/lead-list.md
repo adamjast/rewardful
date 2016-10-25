@@ -5,11 +5,14 @@ Y | Dorian | Edgerly | Dorianedgerly@aim.com | Shun
 Y | Ben | Marconi | bmarconi1992@gmail.com | Shun
   | Jazmin | Felix | jazminidalis@gmail.com | Shun
   | Lynn | Williams | Unknown | Shun
-"Useful" 10/21/16 | [Melissa K](https://www.yelp.com/user_details?userid=C4ivJO1-7tlZTfEyRtyPKw) | | Unknown | [Guru Restaurant (Position 1 Yelp review for "Clermont FL")](https://www.yelp.com/biz/guru-restaurant-clermont)
+"Useful" 10/21/16 | [Melissa K](https://www.yelp.com/user_details?userid=C4ivJO1-7tlZTfEyRtyPKw) | | Unknown | [Guru Restaurant (Position 1 Yelp review for "Clermont FL")](https://www.yelp.com/biz/guru-restaurant-clermont), 20+ Yelp reviews in 2016!, Windemere
 "Useful" 10/21/16 | [Melody V](https://www.yelp.com/user_details?userid=R_lqHR4noQoZ-ZqpRiCm4g) | | Unknown | [Guru Restaurant (Position 1 Yelp review for "Clermont FL")](https://www.yelp.com/biz/guru-restaurant-clermont)
   | [Michael P](https://www.yelp.com/user_details?userid=H5_DlsCY-i05DhSjNh4PNA) | | Unknown | [Guru Restaurant (Position 1 Yelp review for "Clermont FL")](https://www.yelp.com/biz/guru-restaurant-clermont)
     | [John J](https://www.yelp.com/user_details?userid=oBWVkYKVhSqGTCXamJ5G7g) | | Unknown | [Over the Top Pita (Best of Yelp: Clermont)](https://www.yelp.com/biz/over-the-top-pita-clermont)
-"Useful" 10/21/16 | [Tina F](https://www.yelp.com/user_details?userid=Frtn08SfZZ5UmnDbXteW6A) | | Unknown | [Over the Top Pita (Best of Yelp: Clermont)](https://www.yelp.com/biz/over-the-top-pita-clermont)
+"Useful" 10/21/16 | [Tina F](https://www.yelp.com/user_details?userid=Frtn08SfZZ5UmnDbXteW6A) | | Unknown | [Over the Top Pita (Best of Yelp: Clermont)](https://www.yelp.com/biz/over-the-top-pita-clermont), 8 Yelp reviews in 2016, Clermont
+"Useful" 10/25/16 | [Joe N](https://www.yelp.com/user_details?userid=RFeCo5qdQed-5sA-ahzHYQ) | | Unknown | 2 Yelp reviews in 2016, Clermont
+"Useful" 10/25/16 | [Ayshea H](https://www.yelp.com/user_details?userid=_XDfe3o8rnkhMV51xPGZlg) | | Unknown | 7 Yelp reviews in 2016, Clermont
+
     
 
 
