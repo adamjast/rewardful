@@ -12,7 +12,9 @@ Y | Ben | Marconi | bmarconi1992@gmail.com | Shun
 "Useful" 10/21/16 | [Tina F](https://www.yelp.com/user_details?userid=Frtn08SfZZ5UmnDbXteW6A) | | Unknown | [Over the Top Pita (Best of Yelp: Clermont)](https://www.yelp.com/biz/over-the-top-pita-clermont), 8 Yelp reviews in 2016, Clermont
 "Useful" 10/25/16 | [Joe N](https://www.yelp.com/user_details?userid=RFeCo5qdQed-5sA-ahzHYQ) | | Unknown | 2 Yelp reviews in 2016, Clermont
 "Useful" 10/25/16 | [Ayshea H](https://www.yelp.com/user_details?userid=_XDfe3o8rnkhMV51xPGZlg) | | Unknown | 7 Yelp reviews in 2016, Clermont
-
+"Useful" 10/25/16 | [Melissa M](https://www.yelp.com/user_details?userid=gtJ9ZCQOGca57wmc60rVuw) | | Unknown | [Clermont Fish House](https://www.yelp.com/biz/clermont-fish-house-clermont), 1 Yelp review in 2016, Clermont
+"Useful" 10/25/16 | [Oscar S](https://www.yelp.com/user_details?userid=o3Xzk7J8XSVqz8rmNGdJzw) | | Unknown | [Clermont Fish House](https://www.yelp.com/biz/clermont-fish-house-clermont), 16 Yelp reviews in 2016, Clermont
+"Useful" 10/25/16 | [Krista C](https://www.yelp.com/user_details?userid=GPmDPhlE_vFS6BCk7QHDtw) | | Unknown | [Clermont Fish House](https://www.yelp.com/biz/clermont-fish-house-clermont), 1 Yelp review in 2016, Clermont
     
 
 
@@ -26,15 +28,17 @@ My name is Shun Shiga and I found your review for Over The Top Pita in Clermont 
 
 (I ordered the Gyro Pita...it was very good!)
 
-I'm reaching out to you now because I want businesses to know that your Yelp review helped generate new business. 
+I'm reaching out to you now because I want businesses to know that reviews like your's has helped generate new business. 
 
-I'm currently working on an app that would allow local businesses to engage with online reviews, even before they're posted live on review platforms like Yelp and TripAdvisor.
+I'm currently working on a new app that would allow local businesses to reward (or resolve) online reviews BEFORE they're posted live on review platforms like Yelp and TripAdvisor. 
 
-Here's how it would work:
+Ideally, if the business has the opportunity to reward positive reviews, or fix the situations brought up in negative reviews before they're posted live, the app could:
 
-To encourage engagement to both positive and negative reviews, businesses would have a limited opportunity to either thank and reward you for your positive review, or resolve any negative feedback. Once that engagement takes place, the review would then be posted live. If your review then starts creating new business, they could continue rewarding you with special offers or discounts.
+- Help reduce the number of negative reviews posted on a business's profile
+- Encourage more users to write more online reviews
+- Ultimately help continue the business-to-consumer relationship after the business transaction has taken place with special rewards or offers to reviewers
 
-I'm currently looking for some fellow Yelpers who would find this feature useful and wouldn't mind providing some feedback during the development of the app. Together, we can help make online reviews become more valuable to both consumers and businesses.
+If this sounds like an interesting or helpful feature, I'm currently looking for some fellow Yelpers who wouldn't mind providing some feedback during the development of the app. Together, we can help make online reviews become more valuable to both consumers and businesses.
 
 Look forward to hearing your thoughts. 
 
