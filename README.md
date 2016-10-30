@@ -5,7 +5,8 @@ aka *Reviewflow*
 An online review platform that allows businesses to reward or resolve customer reviews before they're posted live.
 
 ### Proposed
-- **NEW: An online review platform that allows businesses to engage with customer reviews before they're posted live.**
+- **NEW 10/30/16: An online communication platform that allows businesses to engage with customer reviews before they're posted live.**
+- An online review platform that allows businesses to engage with customer reviews before they're posted live.
 - Reviews directly to the local business.
 - A software platform that allows local business reviews to reach the owner first
  * Shun: this is more of a feature, not global definition
@@ -31,9 +32,13 @@ Problems that this product is trying to solve
 
 ## 3A. What businesses want
 
+How can online reviews play a more useful role with your business? 
+
 ### What we think businesses want
-1. Businesses with little to no reviews want more reviews (not verifed)
-2. Businesses want more control over online reviews (not verifed)
+1. Businesses want more control over online reviews (not verifed)
+2. Businesses want trustworthy reviews (no anonymous reviews) (not verifed)
+3. Businesses with little to no reviews want more reviews (not verifed)
+4. Businesses want reviewers to write higher quality reviews (not verifed)
 
 ### What businesses actually want
 1. ...
@@ -45,14 +50,15 @@ Problems that this product is trying to solve
 ## 3B. What consumers want
 
 ### What we think consumers want
-1. Consumers want to read helpful reviews (not verifed)
+1. Consumers want to have their voices heard (not verifed)
+1. Consumers want to read helpful/higher quality reviews (not verifed)
 2. Consumers want human engagement for their reviews (responses from businesses, likes from other reviewers) (not verifed)
 
 ### What consumers actually want
 1. ...
 
 ### Questions for consumers
-1. What is the #1 reason you write reviews?
+1. What is the #1 reason why you read reviews?
 
 ### Questions for Yelpers 
 1. What is the #1 reason why you write reviews?
@@ -66,6 +72,8 @@ Situations that can create friction or decrease the user experience.
  - Owner must be aware of the negative review(s)
  - Owner must directly contact the Yelper and ask them to change their rating
  - Even if owner receives more recent positive reviews, Yelp will *still* show older negative reviews
+2. Fake reviews
+3. Consumers threatening to write a negative review
 
 #### For Reviewers
 
@@ -73,6 +81,7 @@ Situations that can create friction or decrease the user experience.
  - Takes too much time
  - "I'm not a good writer"
  - Forgot
+2. Businesses writing fake reviews
  
 ### For Development
 #### For Merchants
