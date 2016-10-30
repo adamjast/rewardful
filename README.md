@@ -29,22 +29,33 @@ Problems that this product is trying to solve
  - During: Transaction
  - **After: Thanking, rewarding, resolving**
 
-## 3. What people want
+## 3A. What businesses want
 
 ### What we think businesses want
-- Businesses with little to no reviews want more reviews (not verifed)
-- Businesses want more control over online reviews (not verifed)
+1. Businesses with little to no reviews want more reviews (not verifed)
+2. Businesses want more control over online reviews (not verifed)
 
 ### What businesses actually want
-...
+1. ...
+
+### Questions for businesses
+1. Are online customer reviews helpful to your business?
+
+
+## 3B. What consumers want
 
 ### What we think consumers want
-- Consumers want to read helpful reviews (not verifed)
-- Consumers want human engagement for their reviews (responses from businesses, likes from other reviewers) (not verifed)
+1. Consumers want to read helpful reviews (not verifed)
+2. Consumers want human engagement for their reviews (responses from businesses, likes from other reviewers) (not verifed)
 
 ### What consumers actually want
-...
+1. ...
 
+### Questions for consumers
+1. What is the #1 reason you write reviews?
+
+### Questions for Yelpers 
+1. What is the #1 reason why you write reviews?
 
 ## 4. Pain points
 Situations that can create friction or decrease the user experience.
