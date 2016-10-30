@@ -41,7 +41,10 @@ We can complete both positive and negative comments by adding personal engagemen
 That's what Rewardful is designed to do with customer reviews.
 
 
-## Features
+## Notes
+
+http://lifehacker.com/5885607/how-to-write-interesting-and-effective-reviews-online-that-people-will-actually-read
+http://burgerconquest.com/2014/10/05/how-to-write-yelp-reviews-and-be-good-for-business/
 
 ## Inspiration
 Minimalist landing page design and marketing inspiration.
