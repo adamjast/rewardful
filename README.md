@@ -28,8 +28,25 @@ Problems that this product is trying to solve
  - Before: Advertisements and promotions
  - During: Transaction
  - **After: Thanking, rewarding, resolving**
- 
-## 3. Pain points
+
+## 3. What people want
+
+### What we think businesses want
+- Businesses with little to no reviews want more reviews (not verifed)
+- Businesses want more control over online reviews (not verifed)
+
+### What businesses actually want
+...
+
+### What we think consumers want
+- Consumers want to read helpful reviews (not verifed)
+- Consumers want human engagement for their reviews (responses from businesses, likes from other reviewers) (not verifed)
+
+### What consumers actually want
+...
+
+
+## 4. Pain points
 Situations that can create friction or decrease the user experience.
 ### Current
 #### For Merchants
@@ -82,7 +99,7 @@ Situations that can create friction or decrease the user experience.
 
 ### Proposals
 
-## 4. Features
+## 5. Features
 
 ### Current
 1. Reviews post to the user's platform of choice.
@@ -99,10 +116,10 @@ Situations that can create friction or decrease the user experience.
  - For example: Receive 20 reviews. Thanking, rewarding or resolving 19 of them will give the business an engagement score of 95%.
 
 
-## 5. Live
+## 6. Live
 You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and [reviewers here](http://rewardful.jastcode.com)
 
-## 6. Why
+## 7. Why
 [fill after one line definition is established...]
 - Continue the B2C relationship after the transaction
 - 'Merchants' want feedback, endorsements, and the ability to provide engaging customer service after the visit or transaction.
@@ -115,7 +132,7 @@ You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and
 - ONE LINE: A software platform that allows local business reviews to reach the owner first.
  - WHY: If the owner gets the ability to see the review before it is posted to the public there might be a window of resolution or clarity between the owner and reviewer.
 
-## 7. Concepts
+## 8. Concepts
 ### Review Actions for Merchant
 These are actions a Merchant can take upon a pending review.
 #### Ignore/Expired
@@ -138,7 +155,7 @@ Choose a rating based on your overall experience with the business
 #### Comment
 Write about your experience
 
-## 8. User types
+## 9. User types
 ### Reviewers
 - Lead
 - Alpha (feedback on concepts)
@@ -155,7 +172,7 @@ Write about your experience
  - Merchant: Regular
  - Merchant: Power/Elite (High engagement rate) 
 
-## 9. Todo
+## 10. Todo
 Things we need to do.
 
 ### Adam
@@ -179,7 +196,7 @@ Things we need to do.
  - [ ] Create Script: Alpha Reviewers
  - [ ] Create Script: Alpha Merchants
  
-## 10. Milestones
+## 11. Milestones
 - Reach out to 5 local Yelp users
 - Reach out to 5 local businesses
 - Meetup with 5 Lead Reviewers
