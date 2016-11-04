@@ -1,11 +1,11 @@
 # Rewardful
 aka *Reviewflow*
-## 1. Simple One Line Definition
+## Simple One Line Definition
 ### Current
 An online review platform that allows businesses to reward or resolve customer reviews before they're posted live.
 
 ### Proposed
-- **NEW 10/30/16: An online communication platform that allows businesses to engage with customer reviews before they're posted live.**
+- An online communication platform that allows businesses to engage with customer reviews before they're posted live.
 - An online review platform that allows businesses to engage with customer reviews before they're posted live.
 - Reviews directly to the local business.
 - A software platform that allows local business reviews to reach the owner first
@@ -17,8 +17,14 @@ An online review platform that allows businesses to reward or resolve customer r
 - A online reviews and rewards platform designed to enhance the post-transactional relationship between businesses and their customers.
 - An online platform to enhance the relationship between businesses and their customers after a visit using reviews.
 
-## 2. Initial Problems
-Problems that this product is trying to solve
+## Initial Problems
+Problems that this product is trying to solve.
+
+1. There is little to no engagement between the business and the reviewer once a review is posted
+2. Businesses have no opportunity to rectify any negative reviews, which can ultimately sever their ratings
+3. It is difficult for many businesses to have more of their customers to write reviews
+4. Too many 4.5 star rated businesses can make it harder for businesses stand out
+5. Many reviews provide little to no value ("The restaurant was busy" Okay, what time and day was it busy so I can avoid going when it's busy???)
 
 1. Submitting a negative review to the public before a owner can resolve it.
 2. Increase the number of positive customers reviews 
@@ -30,40 +36,22 @@ Problems that this product is trying to solve
  - During: Transaction
  - **After: Thanking, rewarding, resolving**
 
-## 3A. What businesses want
+## What businesses want (unverified)
+1. Businesses want more reviews
+2. Businesses want more customers (both new and returning)
+3. Businesses want more control over online reviews
+4. Businesses want trustworthy reviews (no anonymous reviews)
+5. Businesses want reviewers to write high quality reviews
 
-How can online reviews play a more useful role with your business? 
-
-### What we think businesses want
-1. Businesses want more control over online reviews (not verifed)
-2. Businesses want trustworthy reviews (no anonymous reviews) (not verifed)
-3. Businesses with little to no reviews want more reviews (not verifed)
-4. Businesses want reviewers to write higher quality reviews (not verifed)
-
-### What businesses actually want
-1. ...
-
-### Questions for businesses
-1. Are online customer reviews helpful to your business?
+## What consumers want (unverified)
+1. Consumers want to know where to get great quality products and services
+2. Consumers want to know how other people's experiences were with a business
+3. Consumers want to receive promotions and special offers
+4. Consumers want to have their voices heard
+5. Most consumers don't have the time or interest to write reviews
 
 
-## 3B. What consumers want
-
-### What we think consumers want
-1. Consumers want to have their voices heard (not verifed)
-1. Consumers want to read helpful/higher quality reviews (not verifed)
-2. Consumers want human engagement for their reviews (responses from businesses, likes from other reviewers) (not verifed)
-
-### What consumers actually want
-1. ...
-
-### Questions for consumers
-1. What is the #1 reason why you read reviews?
-
-### Questions for Yelpers 
-1. What is the #1 reason why you write reviews?
-
-## 4. Pain points
+## Pain points
 Situations that can create friction or decrease the user experience.
 ### Current
 #### For Merchants
@@ -119,7 +107,7 @@ Situations that can create friction or decrease the user experience.
 
 ### Proposals
 
-## 5. Features
+## Features
 
 ### Current
 1. Reviews post to the user's platform of choice.
