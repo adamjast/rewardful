@@ -124,10 +124,10 @@ Situations that can create friction or decrease the user experience.
  - For example: Receive 20 reviews. Thanking, rewarding or resolving 19 of them will give the business an engagement score of 95%.
 
 
-## 6. Live
+## Live
 You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and [reviewers here](http://rewardful.jastcode.com)
 
-## 7. Why
+## Why
 [fill after one line definition is established...]
 - Continue the B2C relationship after the transaction
 - 'Merchants' want feedback, endorsements, and the ability to provide engaging customer service after the visit or transaction.
@@ -140,7 +140,7 @@ You can find the app for [merchants here](http://biz-rewardful.jastcode.com) and
 - ONE LINE: A software platform that allows local business reviews to reach the owner first.
  - WHY: If the owner gets the ability to see the review before it is posted to the public there might be a window of resolution or clarity between the owner and reviewer.
 
-## 8. Concepts
+## Concepts
 ### Review Actions for Merchant
 These are actions a Merchant can take upon a pending review.
 #### Ignore/Expired
@@ -163,7 +163,7 @@ Choose a rating based on your overall experience with the business
 #### Comment
 Write about your experience
 
-## 9. User types
+## User types
 ### Reviewers
 - Lead
 - Alpha (feedback on concepts)
@@ -180,7 +180,7 @@ Write about your experience
  - Merchant: Regular
  - Merchant: Power/Elite (High engagement rate) 
 
-## 10. Todo
+## Todo
 Things we need to do.
 
 ### Adam
@@ -204,7 +204,7 @@ Things we need to do.
  - [ ] Create Script: Alpha Reviewers
  - [ ] Create Script: Alpha Merchants
  
-## 11. Milestones
+## Milestones
 - Reach out to 5 local Yelp users
 - Reach out to 5 local businesses
 - Meetup with 5 Lead Reviewers
